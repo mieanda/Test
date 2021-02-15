@@ -1,1 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T13:58:57.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" version="14.3.0" etag="8ZL1p3SwQfEzL7j8vzpd" type="github"><diagram id="OljK3k7NFu0Rb8LYoj33">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T15:13:27.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="868TLB9-RG2HeyITCWMS" version="14.3.0" type="github" pages="2">
+  <diagram id="--9GrltKJEG_26GvH7iQ" name="Nivå 1">
+    <mxGraphModel dx="782" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GRcUZhtOi-jGRO2opoOl-0" />
+        <mxCell id="GRcUZhtOi-jGRO2opoOl-1" parent="GRcUZhtOi-jGRO2opoOl-0" />
+        <mxCell id="kmKC4LAmgG0911b99DDO-0" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="175" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GRcUZhtOi-jGRO2opoOl-1" source="kmKC4LAmgG0911b99DDO-3" target="kmKC4LAmgG0911b99DDO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-2" value="Spelar med&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kmKC4LAmgG0911b99DDO-1">
+          <mxGeometry x="-0.3455" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-3" value="Spelare&lt;br&gt;(Person)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="172.5" y="100" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="375" y="60" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244.9999999999999" y="240" as="targetPoint" />
+            <mxPoint x="415" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="130" />
+              <mxPoint x="410" y="180" />
+              <mxPoint x="245" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-6" value="Startar/stänger av" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kmKC4LAmgG0911b99DDO-5">
+          <mxGeometry x="0.1" y="3" relative="1" as="geometry">
+            <mxPoint x="9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GRcUZhtOi-jGRO2opoOl-1" source="kmKC4LAmgG0911b99DDO-9" target="kmKC4LAmgG0911b99DDO-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="180" />
+              <mxPoint x="580" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-8" value="Startar spelet via" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kmKC4LAmgG0911b99DDO-7">
+          <mxGeometry x="0.3043" y="-5" relative="1" as="geometry">
+            <mxPoint x="-52.5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-9" value="Personal&lt;br&gt;(Person)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="372.5" y="100" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GRcUZhtOi-jGRO2opoOl-1" source="kmKC4LAmgG0911b99DDO-12" target="kmKC4LAmgG0911b99DDO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-11" value="&amp;nbsp;Används för kommunikation&amp;nbsp;&lt;br&gt;mellan spelet&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kmKC4LAmgG0911b99DDO-10">
+          <mxGeometry x="-0.116" y="-2" relative="1" as="geometry">
+            <mxPoint x="-5.83" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-12" value="Fysiska reglage&lt;br&gt;(Hårdvara)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-13" value="Dator&lt;br&gt;(Datorsystem)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-14" value="Visar vyn för&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kmKC4LAmgG0911b99DDO-15" value="&lt;b style=&quot;font-size: 15px&quot;&gt;C4-diagem&lt;br style=&quot;font-size: 15px&quot;&gt;Nivå 1&lt;/b&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="GRcUZhtOi-jGRO2opoOl-1">
+          <mxGeometry x="30" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OljK3k7NFu0Rb8LYoj33" name="Nivå 2">
+    <mxGraphModel dx="652" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="530" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-1" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="165" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-2" target="Yb1jlzPNPYFVQ3lIkWTM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-18" value="Spelar med&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-9">
+          <mxGeometry x="-0.3455" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-2" value="Spelare&lt;br&gt;(Person)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="80" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-3" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="220" as="targetPoint" />
+            <mxPoint x="405.0000000000001" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="110" />
+              <mxPoint x="400" y="160" />
+              <mxPoint x="235" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-20" value="Startar/stänger av" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-10">
+          <mxGeometry x="0.1" y="3" relative="1" as="geometry">
+            <mxPoint x="9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-4" target="Yb1jlzPNPYFVQ3lIkWTM-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="160" />
+              <mxPoint x="570" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-19" value="Startar spelet via" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-11">
+          <mxGeometry x="0.3043" y="-5" relative="1" as="geometry">
+            <mxPoint x="-52.5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-4" value="Personal&lt;br&gt;(Person)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="80" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-5" target="Yb1jlzPNPYFVQ3lIkWTM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-25" value="&amp;nbsp;Används för kommunikation&amp;nbsp;&lt;br&gt;mellan spelet&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-24">
+          <mxGeometry x="-0.116" y="-2" relative="1" as="geometry">
+            <mxPoint x="-5.83" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-5" value="Fysiska reglage&lt;br&gt;(Hårdvara)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-6" target="Yb1jlzPNPYFVQ3lIkWTM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-26" value="Används för att&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-13">
+          <mxGeometry x="-0.2619" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-6" value="Dator&lt;br&gt;(Datorsystem)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-7" target="Yb1jlzPNPYFVQ3lIkWTM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="380" />
+              <mxPoint x="100" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-17" value="Visar vyn för&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-15">
+          <mxGeometry x="0.1138" y="6" relative="1" as="geometry">
+            <mxPoint x="6" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-7" value="Skärm/Projektor&lt;br&gt;(Hårdvara)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yb1jlzPNPYFVQ3lIkWTM-8" target="Yb1jlzPNPYFVQ3lIkWTM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGRqdk1mOfxjAiii1Bpu-1" value="renderar vyn genom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="Yb1jlzPNPYFVQ3lIkWTM-14">
+          <mxGeometry x="0.1871" y="-5" relative="1" as="geometry">
+            <mxPoint x="0.83" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-8" value="Spelet&lt;br&gt;(Mjukvarusystemet)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb1jlzPNPYFVQ3lIkWTM-16" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;C4-diagem&lt;br style=&quot;font-size: 15px;&quot;&gt;Nivå 2&lt;/b&gt;&amp;nbsp;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
